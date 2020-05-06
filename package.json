@@ -1,0 +1,16 @@
+{
+  "name": "obs-indicator",
+  "version": "1.0.0",
+  "description": "Indicates whether OBS is recording or not",
+  "main": "index.js",
+  "scripts": {
+    "build": "deckboard-kit --build"
+  },
+  "author": "ech0-de <mail@ech0.de>",
+  "license": "MIT",
+  "dependencies": {
+    "deckboard-kit": "^0.1.11",
+    "electron": "^8.2.5",
+    "obs-websocket-js": "^4.0.1"
+  }
+}

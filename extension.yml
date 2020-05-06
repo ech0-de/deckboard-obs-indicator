@@ -1,0 +1,7 @@
+name: OBS Indicator
+package: obs-indicator
+version: 1.0.0
+description: Indicates whether OBS is recording or not
+author: ech0-de
+license: MIT
+repository: "https://github.com/ech0-de/deckboard-obs-indicator"
