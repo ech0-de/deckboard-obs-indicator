@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "deckboard-kit": "^0.1.11",
-    "electron": "^8.5.2",
+    "electron": "^9.4.0",
     "obs-websocket-js": "^4.0.1"
   }
 }
